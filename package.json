@@ -1,0 +1,23 @@
+{
+  "name": "world-real-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeenMass/World-Real-Time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeenMass/World-Real-Time/issues"
+  },
+  "homepage": "https://github.com/LeenMass/World-Real-Time#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
